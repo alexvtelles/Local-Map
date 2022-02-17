@@ -8,4 +8,4 @@ Aplicação desenvolvida para conhecer o comércio local.
 <img src="./images/local-map.png">
 
 - Mobile React Native
-  <img src="./images/Home.png">
+  <img src="./images/Home.png" width="300px">
